@@ -3,10 +3,11 @@
 This repository contains the jupyter notebooks used for the IGARSS paper: Transfer deep learning for remote sensing datasets: 
 A comparison study". Two versions are available: one using a batch of 128 and the other one a batch of 64. All the experiments for RGB images have been conducted in Google  Colab  Pro  with  16GB  GPU  and  25GB  RAM.
 
-Please take care of the following three things while using the script:<br/>
+Please take care of the following while using the script:<br/>
 1. The implemented DL architecture is ResNet50. <br/>
 2. The name of the notebook references the dataset used to train the network. <br/>
 3. All the models are used to classify the Eurosat Dataset. <br/>
+4. The model that uses all 13 bands was trained on a server. <br/> Two files are provided: the python script to create the model and the notebook to evaluate it.
 
 ## Reference document: [link](link)
 
