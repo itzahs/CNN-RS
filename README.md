@@ -1,7 +1,7 @@
 # Transfer deep learning for remote sensing datasets: <br/> A comparison study
 
 This repository contains the jupyter notebooks used for the IGARSS paper: Transfer deep learning for remote sensing datasets: 
-A comparison study". Two versions are available: one using a batch of 128 and the other one a batch of 64. All the experiments for RGB images have been conducted in Google  Colab  Pro  with  16GB  GPU  and  25GB  RAM.
+A comparison study". Two versions are available for the RGB classifiction: one using a batch of 128 and the other one a batch of 64. All the experiments for RGB images have been conducted in Google  Colab  Pro  with  16GB  GPU  and  25GB  RAM. Whereas the classification with all 13 bands was executed onUbuntu 20.04 x64 server with 11GB GPU and 112GB RAM.
 
 Please take care of the following while using the script:<br/>
 1. The implemented DL architecture is ResNet50. <br/>
