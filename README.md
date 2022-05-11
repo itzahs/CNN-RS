@@ -15,6 +15,10 @@ Remote  sensing  is  also  benefiting  from  the  quick  development  of  deep  
 
 Key Words: deep learning, transfer learning, remotesensing, Keras, Tensorflow
 
+Example of transfer learning on the Eurosat dataset
+
+![alt text](https://github.com/itzahs/CNN-RS/blob/main/TransferLearning.png) 
+
 ## References
 
 Codes adapted from:
