@@ -17,7 +17,7 @@ Key Words: deep learning, transfer learning, remotesensing, Keras, Tensorflow
 
 Example of transfer learning on the Eurosat dataset
 
-![alt text](https://github.com/itzahs/CNN-RS/blob/main/TransferLearning.png) 
+![alt text](https://github.com/itzahs/CNN-RS/blob/main/TransferLearning300.png) 
 
 ## References
 
